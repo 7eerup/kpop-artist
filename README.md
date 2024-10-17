@@ -21,7 +21,7 @@ http://localhost:5173
 ```
 
 <div style="center; text-align: center">
-<img src="./static/home.png" width="800" height="400" alt="main">
+<img src="./static/home.png" width="700" height="350" alt="main">
 <p>Main</p>
 </div>
 
@@ -29,22 +29,22 @@ http://localhost:5173
 ## CRUD 기능
 
 <div style="float: left; width: 50%; text-align: center;">
-    <img src="./static/create.png" width="700" height="300 alt="Create">
+    <img src="./static/create.png" width="700" height="350 alt="Create">
     <p>Create(생성)</p>
 </div>
 
 <div style="float: right; width: 50%; text-align: center;">
-    <img src="./static/read.png" width="700" height="300" alt="Read">
+    <img src="./static/read.png" width="700" height="350" alt="Read">
     <p>Read(조회)</p>
 </div>
 
 <div style="float: left; width: 50%; text-align: center;">
-    <img src="./static/update.png" width="700" height="300" alt="Update">
+    <img src="./static/update.png" width="700" height="350" alt="Update">
     <p>Update(수정)</p>
 </div>
 
 <div style="float: right; width: 50%; text-align: center;">
-    <img src="./static/delete.png" width="700" height="300" alt="Delete">
+    <img src="./static/delete.png" width="700" height="350" alt="Delete">
     <p>Delete(삭제)</p>
 </div>
 
