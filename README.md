@@ -1,5 +1,6 @@
 # React + Vite 활용한 K-POP 아티스트
 
+## ✅ 프로젝트 소개
 **K-Pop 아티스트 콘셉트로 Create(생성) Read(읽기) Update(갱신) Delete(삭제) 기본 데이터 처리 기능을 접목한 웹 애플리케이션 서버(WAS)**
 
 ### ✅ 개발 환경 설정
